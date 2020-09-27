@@ -4,6 +4,7 @@ public class Slabs {
 	double priceRangeStart;
 	double priceRangeEnd;
 	double discountPercentage;
+	
 	public double getPriceRangeStart() {
 		return priceRangeStart;
 	}
